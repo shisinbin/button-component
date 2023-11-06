@@ -1,11 +1,15 @@
 import React from 'react';
 
+import GlobalStyles from './GlobalStyles';
+import ButtonTable from './ButtonTable';
+
 function App() {
   return (
-    <div>
-      <h1>Hello, World!</h1>
-      <p>This is an app made using Parcel!</p>
-    </div>
+    <>
+      <ButtonTable />
+
+      <GlobalStyles />
+    </>
   );
 }
 
