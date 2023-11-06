@@ -24,6 +24,7 @@ Experience gained with:
 
 - styled-components
 - using composition in styled-components
+- CSS variables
 - methodologies for tackling such problems
 - Figma
 - and React, I guess
