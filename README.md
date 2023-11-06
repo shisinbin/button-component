@@ -27,6 +27,7 @@ Experience gained with:
 - methodologies for tackling such problems
 - Figma
 - and React, I guess
+- also, implementing global styles in the styled-components way!
 
 Appreciation gained for:
 
